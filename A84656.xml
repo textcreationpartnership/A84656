@@ -1,0 +1,755 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from His Excellencie Sr. Thomas Fairfax, and his Councell of Warre. Concerning their proceeding in the proposalls, prepared and agreed on by the Councell of the Armie, to be tendred to the Commissioners of Parliament, residing in the Army, and with them to be treated on by the Commissioners of the Army. Together with the heads of the said proposalls, containing the particulars of their desires, in pursuance of their former declarations and papers, in order to the clearing, and securing of the rights, and liberties of the kingdome, and the setling of a just and lasting peace. To which are added some further particular desires, for the removing, and redressing of divers present pressing grievances, being also comprised in, or in necessarie pursuance of their former representations and papers appointed to be treated upon.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84656</idno>
+            <idno type="STC">Wing F139A</idno>
+            <idno type="STC">Thomason E401_4</idno>
+            <idno type="STC">ESTC R201772</idno>
+            <idno type="EEBO-CITATION">99862272</idno>
+            <idno type="PROQUEST">99862272</idno>
+            <idno type="VID">114425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114425)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from His Excellencie Sr. Thomas Fairfax, and his Councell of Warre. Concerning their proceeding in the proposalls, prepared and agreed on by the Councell of the Armie, to be tendred to the Commissioners of Parliament, residing in the Army, and with them to be treated on by the Commissioners of the Army. Together with the heads of the said proposalls, containing the particulars of their desires, in pursuance of their former declarations and papers, in order to the clearing, and securing of the rights, and liberties of the kingdome, and the setling of a just and lasting peace. To which are added some further particular desires, for the removing, and redressing of divers present pressing grievances, being also comprised in, or in necessarie pursuance of their former representations and papers appointed to be treated upon.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>8, 7-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons.,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The declaration is dated on A3r: August 2. 1647.</note>
+                  <note>Annotation on Thomason copy: "Aug: 5th".</note>
+                  <note>Imperfect: foxing and print show-through, obscuring text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114425:1"/>
+            <pb facs="tcp:114425:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM HIS EXCELLENCIE S<hi rend="sup">r.</hi> Thomas Fairfax, And his Councell of Warre.</p>
+            <p>Concerning their proceeding in the Propoſalls, prepared and agreed on by the Coun<g ref="char:EOLhyphen"/>cell of the Armie, to be tendred to the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Parliament,</hi> reſiding in the Ar<g ref="char:EOLhyphen"/>my, and with them to be treated on by the Commiſſioners of the Army.</p>
+            <p>
+               <hi>TOGETHER WITH</hi> The Heads of the ſaid Propoſalls, containing the particulars of their deſires, in purſuance of their for<g ref="char:EOLhyphen"/>mer Declarations and Papers, in order to the clear<g ref="char:EOLhyphen"/>ing, and ſecuring of the Rights, and Liberties of the Kingdome, and the ſetling of a juſt and laſting Peace.</p>
+            <p>
+               <hi>TO WHICH ARE ADDED</hi> Some further particular deſires, for the removing, and redreſſing of divers preſent preſſing grievances, being alſo compri<g ref="char:EOLhyphen"/>ſed in, or in neceſſarie purſuance of their former Repreſentations and Papers appointed to be treated upon.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>Matthew Simmons.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:114425:2"/>
+            <pb n="3" facs="tcp:114425:2"/>
+            <head>
+               <hi>A Declaration FROM HIS</hi> EXCELLENCY <hi>S<hi rend="sup">ir</hi> THO: FAIRFAX, And his Councell of Warre.</hi> Concerning the Propoſalls of the Army for ſetling of a peace, and the grounds of publiſhing the Heads thereof.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince our drawing back to <hi>Reading,</hi> wee have applyed our ſelves with all dili<g ref="char:EOLhyphen"/>gence to frame, and haſten an intire body of all the particular Propoſalls, which wee would tender to the Commiſſioners of Par<g ref="char:EOLhyphen"/>liament reſiding with the Army, to be trea<g ref="char:EOLhyphen"/>ted on in purſuance of thoſe generall deſires, expreſt in our former Declarations and Pa<g ref="char:EOLhyphen"/>pers, for the ſecuring of the Common Rights, and Liberties, and a preſent ſetling of the peace of the Kingdome. In which buſineſſe, (notwithſtanding the many interruptions and diſturbances, with daily advertiſements of the indirect and treacherous practiſes and
+<pb n="4" facs="tcp:114425:3"/>
+preparations of the Committee of <hi>Militia,</hi> and others in and a<g ref="char:EOLhyphen"/>bout the Citie of <hi>London,</hi> and elſewhere, tending to a new Warre have occaſioned, to the diverting or retarding of our proceeding therein, yet,) wee have made a progreſſe as ſpeedy as the nature and weight of ſuch a worke would admit, and having finiſhed the ſame, wee have delivered in, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n abſtract of the Heads thereof unto the ſaid Commiſſioners of Parliament to be treated upon.</p>
+            <p>But the late pernicious Engagement ſet on foote in the Citie, and (much more,) that prodigious violence done to both Houſes of Parliament on Munday laſt, having wholly taken us off for preſent, and rendred all proceeding in the way of Treatie there<g ref="char:EOLhyphen"/>upon meerly vaine and hopeleſſe, untill it ſhall pleaſe God, the Parliament be righted and vindicated againſt that violation done to it, and reſtored into a Condition of freedome, ſo as the un<g ref="char:EOLhyphen"/>queſtioned Members of it may repaire together with ſafetie, and proceed according to their juſt freedome. Wee have thought good in the meane time to make this publique tender of the Heads of the Propoſalls to the Conſideration of the whole Kingdome, wherein though all circumſtances requiſite to be determined in an actuall ſettlement, be not ſo fully and perfectly expreſſed, as upon the Treaty intended (if not interrupted, as before,) they might ſpeedily have been, yet all men may ſee and underſtand in theſe the effect and bottome of our deſires, whereupon wee have ſincerely ſtudied, that a preſent peace might be ſetled; which ſame thing, (with and after ſuch vindication of the Par<g ref="char:EOLhyphen"/>liament, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may againe render it into a capacitie to eſtabliſh the ſame,) wee ſhall ſtill faithfully endeavour to the utmoſt of our powers, and accordingly ſhall expect the chearfull and heartie concurrence of all thoſe who are or ſhall be ſatisfied, concern<g ref="char:EOLhyphen"/>ing the integritie of our intentions to the peace and welfare of the Kingdome in theſe Propoſalls, or who ſhall (for the maine) de<g ref="char:EOLhyphen"/>ſire or approve of the ſame things with us in order to a ſettle<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And to theſe Propoſalls which wee here firſt tender as neceſſa<g ref="char:EOLhyphen"/>ry to a Peace, and upon which wee deſire the ſeale of peace, (in the reſtitution of his Majeſty and others to their Rights, and in
+<pb n="5" facs="tcp:114425:3"/>
+an Act of Oblivion to be paſt,) wee cannot but adde the further expreſſion of our deſires in ſome other particulars, which (though not ſo eſſentiall to peace, as neceſſarily to precede the ſetling of it, yet) being matters of very publique, and (moſt of them) of generall grievance to the Kingdome (which wee every where finde the Out-cryes of,) and being contained in, or purſuance of the ſame things expreſſed in our former Repreſentations, and Papers: Wee ſhall deſire, That (the Parliament being ſet free) no time may be loſt for a ſpeedy Conſideration of them, ſo as the former things for the preſent ſetling of peace be not delayed thereby.</p>
+            <closer>
+               <signed>Signed by the Appointment of his EXCELLENCY Sir THO: FAIRFAX, and the Councell of Warre. <hi>Jo: Ruſhworth,</hi> Secretary.</signed> 
+               <dateline>
+                  <hi>Colebrooke</hi>
+                  <date>
+                     <hi>Auguſt</hi> 2. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proposals">
+            <pb n="6" facs="tcp:114425:4"/>
+            <head>The Heads of the PROPOSALLS agreed upon by his <hi>Ex<hi rend="sup">cie</hi>
+               </hi> Sir THO: FAIRFAX, and the Councell of the Army, to be tendred to the Commiſſioners of Parliament, reſiding with <hi>the Army, and with them to be treated on by the Commiſſioners of the Army.</hi>
+            </head>
+            <head type="sub">
+               <hi>CONTAINING</hi> The particulars of their deſires in purſuance of their former Declarations and Papers: In order to the clearing and ſecu<g ref="char:EOLhyphen"/>ring of the Rights and liberties of the Kingdome, <hi>and the ſetling a juſt and laſting peace.</hi>
+            </head>
+            <head type="sub">To which are added ſome further particular de<g ref="char:EOLhyphen"/>ſires (for the removing and redreſſing of divers preſent preſſing grievances) being alſo comprized in, <hi>or neceſſary purſuance of their former Repreſentations and Papers appointed to be Treated upon.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat (the things hereafter propo<g ref="char:EOLhyphen"/>ſed, being provided for by this Par<g ref="char:EOLhyphen"/>liament) a certain period may, by Act of Parliament) be ſet for the ending of this Parliament, (ſuch period to be within a year at moſt,) and in the ſame Act proviſion to be made for the ſuc<g ref="char:EOLhyphen"/>ceſſion
+<pb n="7" facs="tcp:114425:4"/>
+and conſtitution of Parliaments in future as followeth.</p>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat <hi>Parliaments</hi> may B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ennially be called, and meet at a certaine day, with ſuch proviſion for the certainty thereof, as in the late Act was made for <hi>Trienniall Parliaments,</hi> and what further or other proviſion ſhall be found need<g ref="char:EOLhyphen"/>full by the <hi>Parliament,</hi> to reduce it to more certainty; and upon the paſſing of this, the ſaid Act for <hi>Trienni<g ref="char:EOLhyphen"/>all-Parliaments</hi> to be repealed.</p>
+            <p n="2">2. Each Bienniall <hi>Parliament</hi> to fit 120. dayes certaine (unleſſe adjourned, or diſſolved ſooner by their own conſent) afterwards to be adjournable or diſſolveable by the King; and no <hi>Parliament</hi> to ſit paſt 240. dayes, from their firſt meeting or ſome other limi<g ref="char:EOLhyphen"/>ted number of dayes now to be agreed on: upon the expiration whereof, each <hi>Parliament</hi> to diſſolve of courſe, if not otherwiſe diſſolved ſooner.</p>
+            <p n="3">3. The King upon advice of the Councell of State in the inter<g ref="char:EOLhyphen"/>valls bewixt <hi>Bienniall-Parliaments,</hi> to call a <hi>Parliament</hi> extraordi<g ref="char:EOLhyphen"/>nary, provided it meet above ſeventie dayes before the next Bi<g ref="char:EOLhyphen"/>enniall day, and be diſſolved at leaſt ſixtie dayes before the ſame, ſo as the courſe of Bienniall-elections may never bee inter<g ref="char:EOLhyphen"/>rupted.</p>
+            <p n="4">4. That this <hi>Parliament</hi> and each ſucceeding <hi>Bienniall-Parliament,</hi> at, or before adjournment, or diſſolution thereof, may appoint Committees to continue during the intervall, for ſuch purpoſes as are in any of theſe Propoſalls refe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r'd to ſuch Committees.</p>
+            <p n="5">5. That the Elections of the Commons for ſucceeding <hi>Par<g ref="char:EOLhyphen"/>liaments,</hi> may be diſtributed to all Counties, or other parts or diviſions of the Kingdome, according to ſome rule of equality or proportion, ſo as all Counties may have a number of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> Members allowed to their choice, proportionable to the reſpective Rates they beare in the common charges, and bur<g ref="char:EOLhyphen"/>thens of the Kingdome, according to ſome other rule of equallity
+<pb n="8" facs="tcp:114425:5"/>
+or proportion, to render the Houſe of Commons, (as neere as may be) an equall Repreſentative of the whole, and in order thereunto, that a preſent conſideration be had to take off the Elections of Burgeſſes, for poore decayed, or inconſiderable Townes, and to give ſome preſent addition to the number of <hi>Parliament</hi> Members for great Counties, that have now leſſe then their due proportion, to bring all (at preſent) as neere as may be, to ſuch a rule of proportion, as aforeſaid.</p>
+            <p n="6">6. That effectuall proviſion be made for future freedome of Elections, and certainty of due returnes.</p>
+            <p n="7">7. That the Houſe of Commons alone have the power from time to time, to ſet downe further orders and rules for the ends expreſſed in the two laſt preceding Articles, ſo as to reduce the Elections of Members for that Houſe, to more and more perfection of equallity in the diſtribution, freedome in the Election, Order in the proceeding thereto, and certainty in the Returnes, which orders and rules (in that caſe) to be as Lawes.</p>
+            <p n="8">8. That there be a liberty for entering diſſents in the Houſe of Commons with proviſion, that no Member be cenſurable for ought ſaid or voted in the Houſe, further then to excluſion from that truſt, and that onely by the judgement of the Houſe it ſelfe.</p>
+            <p n="9">9. That the judiciall power, or power of finall Judgement in the Lords and Commons (and their power of Expoſition and Application of Law) (without further appeale) may be cleared: And that no Officer of Juſtice, Miniſter of State, or other perſon adjudged by them, may be capable of Protection, or pardon from the King, without their advice and conſent.</p>
+            <p n="10">10. That the Right and libertie of the Commons of <hi>England,</hi> may be cleared and vindicated, as to a due Exemption from any Judgement, Triall, or other proceeding againſt them by the Houſe of Peeres, without the concurring Judgement of the Houſe of Commons. As alſo from any other judgement, ſentence, or proceeding againſt them, other then by their equalls, or accord<g ref="char:EOLhyphen"/>ing to the Law of the Land.</p>
+            <p n="11">
+               <pb n="7" facs="tcp:114425:5"/>11 The ſame Act to provide, that grand Jury-men may bee choſen by, and for ſeverall parts or diviſions of each County reſpectively, In ſome equal way (and not remaine as now at the diſcretion of an under-Sheriffe to be put on or off,) And that ſuch Grand Jury-men for their reſpo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ties may at each Aſſize preſent the names of p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to be made Juſtices of Peace, from time to time, as the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nty hath neede for any to be added to the Commiſſion, and at the ſummer Aſſize to preſent the names of three perſons out of whom the Kinge may prick one to bee Sheriffe for the next yeare.</p>
+            <p n="2">II. For the future ſecurity to Parliaments and the Militia in generall in order thereunto, that it be provided by Act of Parliament.</p>
+            <p n="1">1 <hi>That the power of the</hi> Militia <hi>by Sea and Land during the ſpace of ten yeares next enſuing ſhall be ordered and diſpoſed by the Lords and Commons Aſſembled, and to bee Aſſembled in the Par<g ref="char:EOLhyphen"/>liament or Parliaments of</hi> England, <hi>or by ſuch perſons as they ſhall nominate and appoint for that purpoſe from time to time during the ſaid ſpace.</hi>
+            </p>
+            <p n="2">2 <hi>That the ſaid power ſhall not be ordered, diſpoſed, or exer<g ref="char:EOLhyphen"/>ciſed by the Kings Majeſty that now is, or by any perſon or perſons by any Authority derived from him, during the ſaid ſpace, or at any time hereafter by his ſaid Majeſty, without the advice and conſent of the ſaid Lords and Comm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of ſuch Committees, or Councel in the intervals of Parliament as they ſhall appoint.</hi>
+            </p>
+            <p n="3">3 <hi>That during the ſame ſpace of ten yeares, the ſaid Lords and Commons way by Bill or Ordinance raiſe and diſpoſe of what mo<g ref="char:EOLhyphen"/>nies, and for what Forces they ſhall from time to time finde neceſ<g ref="char:EOLhyphen"/>ſary, as alſo for payment of the publick debts and damages; and for all other the publick uſes of the Kingdome.</hi>
+            </p>
+            <p n="4">4 <hi>And to the end the temporary ſecurity intended by the three particulars laſt precedent way bee the better aſſured it may there<g ref="char:EOLhyphen"/>fore be provided,</hi>
+            </p>
+            <p>
+               <hi>That no Subjects that have beene in Hoſtility againſt the Par<g ref="char:EOLhyphen"/>liame<g ref="char:cmbAbbrStroke">̄</g>t in the late warre ſhall be capable of bearing any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ffice of pow<g ref="char:EOLhyphen"/>er or publick truſt in the Common-wealth during the ſpace of five
+<pb n="8" facs="tcp:114425:6"/>
+yeares without conſent of Parliament or of the Councell of State, or to ſit as Members or aſſiſtants of either Houſe of Parliament un<g ref="char:EOLhyphen"/>till the ſecond Biennial Parliament be paſt.</hi>
+            </p>
+            <p n="3">III. For the preſent form of diſpoſing the Militia in order to the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce<g ref="char:cmbAbbrStroke">̄</g> and ſafety of this Kingdome and the ſervice of <hi>Ireland.</hi>
+            </p>
+            <p n="1">1 <hi>That there be Commiſſioners for the admiralty with a Vice-Admirall and Rere-Admirall, now to bee agreed on, with power for the forming, regulating, appointing of Officers, and providing for the Navy, and for ordering the ſame, to and in the ordinary ſervice of the Kingdom. And that there be a ſufficient proviſion and eſtabliſh<g ref="char:EOLhyphen"/>ment for pay and mayntenance thereof.</hi>
+            </p>
+            <p n="2">2 <hi>That there bee a Generall for command of the Land Forces that are to bee in pay both in</hi> England, Ireland, <hi>and</hi> Wales, <hi>both for Field and Gariſon.</hi>
+            </p>
+            <p n="3">3 <hi>That there be Commiſſioners in the ſeverall Counties, for the ſtanding Militia of the reſpective Counties (conſiſting of Train<g ref="char:EOLhyphen"/>ed Bands and Auxiliaries not in pay,) with power for the proporti<g ref="char:EOLhyphen"/>oning, forming, regulating, trayning, and diſciplyning of them.</hi>
+            </p>
+            <p n="4">4 <hi>That there bee a Councel of State with power to ſuperintend and direct the ſeverall, and particular powers of the Militia laſt mentioned for the peace and ſafety of this Kingdome, and of</hi> Ireland.</p>
+            <p n="5">5 <hi>That the ſame Councell may have power as the Kings privy Councel, for and in all forraigne negotiations; provided, That the making of warre or peace with any other Kingdome or State ſhall not bee without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he advice and conſent of Parliament.</hi>
+            </p>
+            <p n="6">6 <hi>That the ſaid power of the Councell of State bee put into the hands of truſty and able perſons now to bee agreed on, and the ſame perſons to continue in that power</hi> (ſi bene ſe geſſerint,) <hi>for a cer<g ref="char:EOLhyphen"/>tain Terme not exceeding ſeaven years.</hi>
+            </p>
+            <p n="7">7 <hi>That there bee a ſufficient eſtabliſhment now provided for the ſalary Forces both in</hi> England <hi>and</hi> Ireland, <hi>the eſtabliſhment to continue untill two Moneths after the meeting of the firſt Bienniall Parliament.</hi>
+            </p>
+            <p n="4">IV. That an Act be paſſed for diſpoſing the great Offices f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ten years by the Lords and Commons in Parliament, or by ſuch Committees as they ſhall appoint for that purpoſe in the inter<g ref="char:EOLhyphen"/>valls,
+<pb n="9" facs="tcp:114425:6"/>
+(with ſubmiſſion to the approbation of the next Parlia<g ref="char:EOLhyphen"/>ment) and after ten years, they to nominate three, and the King out of that number to appoint one for the ſucceſſion, up<g ref="char:EOLhyphen"/>on any vacancy.</p>
+            <p n="5">V. That an Act be paſſed for reſtraining of any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made ſince the 21 day of <hi>May</hi> 1642. or to be hereafter <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, from having any power to ſit or Vote in Parliament, without conſent of both Houſes.</p>
+            <p n="6">VI. That an Act be paſſed, for recalling and making voyd all Declarations and other proceedings againſt the Parliament, or againſt any that have acted by, or under their authority in the late Warre, or in relation to it. And that the Ordinances for indempnity may be confirmed.</p>
+            <p n="7">VII. That an Act be paſſed for making void all Grants, &amp;c. under the Great Seal, that was conveyed away from the Par<g ref="char:EOLhyphen"/>liament, ſince the time that it was ſo conveyed away (except as in the Parliaments Propoſitions) and for making thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>did that have been or ſhall be paſſed under the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat Seale made by the authority of both Houſes of Parliament</p>
+            <p n="8">VIII. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Act be paſſed for <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>mation of the Trea<g ref="char:EOLhyphen"/>ties between the two Kingdomes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>Scotland,</hi> and for appointing Conſervators of the peace betwixt them.</p>
+            <p n="9">IX. That the Ordinance for taking away the Court of Wards and Liveries be confirmed by Act of Parliament; Provided his Majeſties Revenue be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> damnified therein, nor thoſe that laſt held Offices in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without reparation ſome other way.</p>
+            <p n="10">X. An Act to declare void the C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation of <hi>Ireland, &amp;c.</hi> and to leave the proſecution of that War<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the Lords and Com<g ref="char:EOLhyphen"/>mons in the Parliament of <hi>England.</hi>
+            </p>
+            <p n="11">XI An Act to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to take a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> power, authority and juriſdiction of Biſhops and all other Eccleſiaſti<g ref="char:EOLhyphen"/>call Officers whatſoever, extending to any Civill penalties up<g ref="char:EOLhyphen"/>on any; and to repeale <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Laws, whereby the Civill Magiſtra<g ref="char:EOLhyphen"/>cy hath been or is boun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon any Eccleſiaſticall cenſure to proceed <hi>(ex officio)</hi> unto any civill penalties againſt any perſons to cenſured.</p>
+            <p n="12">XII. That there be a repeale of all Acts, or C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſes in any
+<pb n="10" facs="tcp:114425:7"/>
+Act, enjoyning the uſe of the Book of Common Prayer, and impoſing any penalties, for neglect thereof, as alſo of all Acts or Clauſes in any Act, impoſing any penalty for not comming to Church, or for meetings elſewhere, for prayer, or other re<g ref="char:EOLhyphen"/>ligious duties, exerciſes or Ordinances, and ſome other provi<g ref="char:EOLhyphen"/>ſion to be made for diſcovering of Papiſts, and Popiſh Recu<g ref="char:EOLhyphen"/>ſants, and for diſabling of them, and of all Jeſuites, or Prieſts, from diſturbing the State.</p>
+            <p n="13">XIII. That the taking of the Covenant be not inforced up<g ref="char:EOLhyphen"/>on any, nor any penalties impoſed upon the Refuſers, whereby men might be conſtrained to take it againſt their judgements, or conſciences, but all Orders or Ordinances tending to that purpoſe to be repealed.</p>
+            <p n="14">XIV. That (the things here before propoſed, being provided, for ſetling and ſecuring the Rights, Liberties, Peace, and ſafety of the Kingdome,) his Majeſties perſon, his Queen, and Royall iſſue, may be reſtored to a condition of ſafety, Honour, and freedome in this Nation, without diminution to their perſon<g ref="char:EOLhyphen"/>all Rights, or further limitation to the exerciſe of the Regall power then according to the particulars aforegoing.</p>
+            <p n="15">XV. For the matter of Compoſitions.</p>
+            <p n="1">1. <hi>That a leſſe number out of the perſons excepted in the t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> firſt qualifications, (not exceeding five for the</hi> Engliſh,) <hi>being nomi<g ref="char:EOLhyphen"/>nated particularly by the Parliament, who (together with the per<g ref="char:EOLhyphen"/>ſons in the</hi> Iriſh <hi>Rebellion, included in the third qualification,) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y be reſerved to the further judgement of the Parliament, as they ſhall finde cauſe, All other excepted perſons may be remitted from the ex<g ref="char:EOLhyphen"/>ception, and admitted to Compoſition.</hi>
+            </p>
+            <p n="2">2. <hi>That the rates for all future Co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſitions may be leſſened and limitted, not to exceed the ſeverall proportions hereafter expreſt re<g ref="char:EOLhyphen"/>ſpectively: That is to ſay.</hi>
+            </p>
+            <p n="1">1. <hi>For all p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſouls formerly excepted, not above <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> part.</hi>
+            </p>
+            <p n="2">2. <hi>For the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Members of Parliament, under the firſt branch of the fourth qualification in the Propoſition, a fourth part.</hi>
+            </p>
+            <p n="3">3, <hi>For other Members of Parliament, in the ſecond and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> branches of the ſame qualification, a ſixth part.</hi>
+            </p>
+            <p n="4">
+               <pb n="11" facs="tcp:114425:7"/>4. <hi>For the perſons nominated in the ſaid fourth qualificati<g ref="char:EOLhyphen"/>on, and thoſe included in the tenth qualification, an eight part.</hi>
+            </p>
+            <p n="5">5. <hi>For all others in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th qualification, a tenth part.</hi>
+            </p>
+            <p>
+               <hi>And that reall Debts, either upon Record, or proved by witneſſes, be conſidered and abated in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their eſtates in all the caſes aforeſaid.</hi>
+            </p>
+            <p n="3">3. <hi>That thoſe who ſhall hereafter <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> compound, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve the Covenant <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> without which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not compound, but in caſe they ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> willingly take it, they may paſſe their Compoſitions without <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="4">4. <hi>That the perſons and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of all</hi> Engliſh, <hi>not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> two hundred pounds in La<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Goods, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at liberty and diſcharged: And that the Kings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Servants that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> took <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Almes, his <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly attended his Perſon according to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Office<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed from Compoſition, or to pay (at moſt) but the proportion of one <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ges <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="5">5. <hi>That is Order <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the making and perf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Compoſitions <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> aforeſaid, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Profit of all ſequeſtred <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Eſtates of ſuch perſon wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee from henceforth ſuſpended and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the hand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſpective tenants, occupants, and other<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from them they are due, for the ſpace of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> following.</hi>
+            </p>
+            <p n="6">6. <hi>That the Faith <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to have been made, full reparation and ſatisfaction may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, and the perſons <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="15">XV. Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to ex<g ref="char:EOLhyphen"/>tend unto all (except <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cep<g ref="char:EOLhyphen"/>tion as before) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an<g ref="char:EOLhyphen"/>our<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from all trouble or prejudice for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their compoſitions paſt) and to reſtore them to all pri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iledges <hi>&amp;c.</hi> belonging to other Subjects, provided as in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> par<g ref="char:EOLhyphen"/>ticular under the ſecond generall head <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſecurity.</p>
+            <p>
+               <pb n="12" facs="tcp:114425:8"/>And whereas there have beene of late ſtrong indeavours and practices of a fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and deſperate party, to imbroyle this Kingdom in a new warre, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d for that purpoſe to induce the King the Queene, and Prince, to declare for the ſaid party and alſo to excite and ſtirre up all thoſe of the Kings late party to appeare and ingage for the ſame, which attempts and deſignes, many of the Kings party, (out of their deſires to avoid further m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdome,) have contributed their in devours to prevent, (as for divers of them wee have had particular aſſurance,) we doe therefore deſire, that ſuch of the Kings party who ſhall appeare to have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſſed, and ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expreſſe that way their good affections to the pence and welfare of the Kingdoms, and to hinder the a broyling of the ſome in a new warre, may bee freed and co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pted from compoſitions, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to pay but one yeares Rev<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a twen<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> part.</p>
+            <p>Theſe particulars aforegoing are the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> propo<g ref="char:EOLhyphen"/>ſall as wee have agreed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d in order <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the peace of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> leaving the Termes or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Kingdome of <hi>Scot<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> to ſtand as in the propoſi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of both Kingdomes untill that Kingdome ſhall agree to any o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tion.</p>
+            <p>Next to the propoſals aforeſaid for the pre<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, wee ſhall deſire, than <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may be lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by the Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ent for diſpa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of other things tending to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and juſt in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Kingdome, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>T<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> juſt and neceſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y liberty of the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their grievances and deſires by way of Petition, may be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or Declaration of the Army ſent from S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Albans.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. (<hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>) the common grieva<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> by the people, may be ſpeed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly con<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> of, and effectually red<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed, and in particular.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Exciſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay bee taken off from ſuch Commodities <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> people of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and doe ordinarily free and a cer<g ref="char:EOLhyphen"/>tain <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for taking off the whole.</hi>
+            </p>
+            <p n="2">
+               <pb n="13" facs="tcp:114425:8"/>2. <hi>That the oppreſſions and incroachm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound Laws may be prevented for future.</hi>
+            </p>
+            <p n="3">3. <hi>All Monopolies (old or ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) and reſtraines to the freedome of trade to</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p n="4">4. <hi>That <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to remedy and rectifie the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ties, and ſeverall parts of each County, in reſpect of others, and to ſettle the proportions for L<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> are to more equally throughout the Kingdome, in order to which we ſhall offer ſome further parti<g ref="char:EOLhyphen"/>cular<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which we hope m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y be uſefull.</hi>
+            </p>
+            <p n="5">5. <hi>The preſent unequall troubleſome and contentions way of Mi<g ref="char:EOLhyphen"/>niſters maintenance by T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, to be conſidered of, and ſome remedy applyed.</hi>
+            </p>
+            <p n="6">6. <hi>That the rules and courſe of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and the affirme of is, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay be ſo reduced and reformed, as that all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and questions <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rights may be more cleere and certaine in the iſſues, and not ſo tedious nor chargeable in the proceeding as now, in order to which we ſhall offer ſome further particulars hereafter.</hi>
+            </p>
+            <p n="7">7. <hi>That Priſoners for D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bt, or other <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have E<g ref="char:EOLhyphen"/>ſtates to diſc<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> go them may not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> other wayes <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> but that the Eſtates of all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may be ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e liable to their Debts, (as well as Tradeſmen are by Commiſſions of Bankrupt) whether they be impriſoned for it, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. And thee ſuch priſoners for Debt, who have not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> have to their Cre<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ors, may b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> impriſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ent, or ſome may provided for, ſo as neither they or the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Families <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay periſh by their impriſonments.</hi>
+            </p>
+            <p n="8">8. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of themſelves, or their neereſt Relations i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> criminall cauſes, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> no mans life take taken away under <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> witneſſes.</hi>
+            </p>
+            <p n="9">9. <hi>That <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, or elſe to quallifie and pr<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>e againſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> extend <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or enſnaring of religious and peaceable people, meerly for non-conformity in Religion.</hi>
+            </p>
+            <p n="3">
+               <pb n="14" facs="tcp:114425:9"/>3. That according to the ſixt Head in the Decla<g ref="char:EOLhyphen"/>ration of the Army, the large powers given to Com<g ref="char:EOLhyphen"/>mittees or Deputy Lieutenants during the late times of warre and diſtraction, may be ſpeedily taken into confu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion, to be recalled <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d made void and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch powers of that nature as ſhall appears neceſſary to be continued, may be put into a regulated way, and left to as little Arbitrarineſſe as the nature and neceſ<g ref="char:EOLhyphen"/>ſity of the things (wherein they are converſant) will beare.</p>
+            <p n="4">4. That (according to the ſeventh Head in the ſai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Declaration an effectuall courſe may be taken, t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the kingdome may be righted and ſatisfied in point of Accounts for the vaſt ſummes that have been levyed.</p>
+            <p n="5">5. That proviſion may be made for payment of Ar<g ref="char:EOLhyphen"/>rears to the Army, and the reſt of the Souldiers of the kingdome, who have concurred with the Ar<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in the late deſires and proceedings thereof: And in the near place, for payments of the publique debts and da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mages of the kingdome, and that to bee performed, firſt to ſuch perſons whoſe debts or dammages <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the publick Account are great, and their eſtates ſhall ſo as they are thereby reduced to a difficulty of ſub<g ref="char:EOLhyphen"/>ſiſtence; In order to all which, and to the fourth par<g ref="char:EOLhyphen"/>ticular laſt proceding, we ſhall ſpeedily offer ſee<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> further <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nature of rule <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hope will be of good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> towards publike <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on.</p>
+            <closer>
+               <signed>
+                  <hi>Signed by the</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Fair<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ax, <hi>and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Warre.</hi> Jo. Ruſhworth, Secre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed> 
+               <dateline>
+                  <date>Auguſt 1. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
